@@ -1,4 +1,4 @@
-package com.springguru.ismail.sfgpetclinic;
+package com.springguru.ismail.sfgpetclinic.model;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
